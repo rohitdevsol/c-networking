@@ -1,2 +1,7 @@
+*/*
+!*/*.c
+!*/*.h
+!*/*.md
+!*/Makefile
+!*/.gitignore
 
-**/showip
