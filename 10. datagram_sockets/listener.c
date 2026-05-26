@@ -11,7 +11,6 @@ Let's use the IPv6 specifically
 #include <errno.h>
 #include <netdb.h>
 #include <netinet/in.h>
-#include <signal.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
