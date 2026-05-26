@@ -5,6 +5,10 @@ whatever the user enters on the command line
 
 Let's use the IPv6 specifically
 
+    getaddrinfo
+    loop - socket and bind
+    recvfrom.          theiraddr comes with this
+    close(socketfd)
 */
 
 #include <arpa/inet.h>

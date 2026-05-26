@@ -1,3 +1,10 @@
+/**
+    getaddrinfo
+    in loop - socket
+    sendto
+    close(socketfd)
+*/
+
 #include <arpa/inet.h>
 #include <errno.h>
 #include <netdb.h>
